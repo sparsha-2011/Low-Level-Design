@@ -1,6 +1,6 @@
 # Author: Sparsha Srinath
 # Topic: Connection Pool — Singleton + Object Pool Pattern
-# Date: 2025-06-15
+# Date: 2026-05-24
 # Tags: design-patterns, singleton, object-pool, low-level-design, threading
 #
 # Description:
