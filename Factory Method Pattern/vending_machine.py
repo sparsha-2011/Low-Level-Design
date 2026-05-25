@@ -1,6 +1,6 @@
 # Author: Sparsha Srinath
 # Topic: Vending Machine — Factory + State + Singleton
-# Date: 2025-06-15
+# Date: 2026-05-24
 # Tags: design-patterns, factory, state, singleton, low-level-design
 #
 # Description:
