@@ -1,6 +1,6 @@
 # Author: Sparsha Srinath
 # Topic: Singleton Pattern — Logger
-# Date: 2025-06-15
+# Date: 2026-05-24
 # Tags: design-patterns, singleton, low-level-design, logger, threading, dependency-injection
 # Description:
 #   A Logger class using the Singleton pattern to ensure all parts of the system
