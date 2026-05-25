@@ -60,6 +60,7 @@
 import json
 import os
 import sys
+from abc import ABC, abstractmethod
 
 
 # ====================
@@ -68,11 +69,10 @@ import sys
 #    Each subclass implements load() its own way
 # ====================
 
-class ConfigSource:
+class ConfigSource(ABC):
+    @abstractmethod
     def load(self):
-        # Abstract method — subclasses MUST override this
-        # Calling this directly raises an error
-        raise NotImplementedError
+        pass
 
 
 # --- File Source ---
